@@ -2,7 +2,7 @@
 Algorithm_OpenSourceSWproj_Assignment4
 
 This document is anlaysis of Handwritten digit classification 
-using Convolutional neural network.
+using Convolutional neural network Model.
 
 1. Model
 ![3 Layers with 1 Convolution layer](https://user-images.githubusercontent.com/52710052/83380830-ee74ef80-a419-11ea-9ef1-144fd2c3e998.PNG)
