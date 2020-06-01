@@ -51,6 +51,7 @@ This document is anlaysis of Handwritten digit classification using Convolutiona
 ![Test](https://user-images.githubusercontent.com/52710052/83384521-61826400-a422-11ea-8f9d-47a6f2856b30.PNG)
 
 4. Images and corrseponding probabliity that predicted Right
+
 ![image](https://user-images.githubusercontent.com/52710052/83384525-62b39100-a422-11ea-8333-76ddd4a34bc3.PNG)
 
 ![images](https://user-images.githubusercontent.com/52710052/83384520-60e9cd80-a422-11ea-8f1d-51ba6693d4e5.PNG)
